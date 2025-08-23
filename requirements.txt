@@ -1,0 +1,6 @@
+sqlalchemy
+streamlit
+requests
+pymysql
+python-dotenv
+psycopg2
